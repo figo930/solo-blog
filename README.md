@@ -10,7 +10,7 @@ Fly的博客
 
 ### 最新
 
-* [Docker-compose安装Solo](https://www.fly930.com/docker-compoes-insall-solo)
+* [Docker-compose 安装 Solo](https://www.fly930.com/docker-compoes-insall-solo)
 
 
 
