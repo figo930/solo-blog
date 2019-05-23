@@ -10,6 +10,7 @@ Fly的博客
 
 ### 最新
 
+* [Centos系统编译php pgsql.so模块支持postgresql数据](https://www.fly930.com/centos-build-pgsql.so)
 * [Docker-compose 安装 Solo](https://www.fly930.com/docker-compoes-insall-solo)
 
 
